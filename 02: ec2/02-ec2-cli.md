@@ -1,6 +1,6 @@
 ## 🖥️ Create EC2 Instance Using AWS CLI
 
-### 🛡️ Create Custom Security Group
+### 🛡️ Create a Custom Security Group
 
 - Create a custom security group that allows traffic on ports 22 and 80 from anywhere.
 
@@ -17,4 +17,5 @@
 ## References
 
 - [Create ec2 instance Using CLI](https://devopscube.com/use-aws-cli-create-ec2-instance/)
+- [ec2 User Data Troubleshooting](https://devopscube.com/ec2-user-data/)
 
